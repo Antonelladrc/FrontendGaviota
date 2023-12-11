@@ -114,6 +114,7 @@ const Register = () => {
               /*     value={termsAndConditions}
               onChange={handleTermsAndConditions} */
             />
+            <button type="submit">Register</button>
           </div>
         </form>
       </div>

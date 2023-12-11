@@ -40,5 +40,14 @@
   color: #5c5c5c;
   font-size: 18px;
 }
-
-
+.register-container button {
+  width: 580px;
+  height: 72px;
+  color: white;
+  background: #ff4141;
+  margin-top: 30px;
+  border: none;
+  font-size: 24px;
+  font-weight: 500;
+  cursor: pointer;
+}
