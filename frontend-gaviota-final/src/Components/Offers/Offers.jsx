@@ -1,9 +1,9 @@
-import React from 'react'
-import './Offers.css'
+import React from "react";
+import "./Offers.css";
 
 const Offers = () => {
   return (
-    <div className='offers'>
+    <div className="offers">
       <div className="offers-left">
         <h1>Exclusivo</h1>
         <h1>Ofertas mensuales</h1>
@@ -11,7 +11,7 @@ const Offers = () => {
         <button>Suscribirme</button>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Offers
+export default Offers;
